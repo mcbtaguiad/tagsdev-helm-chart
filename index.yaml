@@ -2,13 +2,23 @@ apiVersion: v1
 entries:
   tagsdev:
   - apiVersion: v2
-    appVersion: 1.0.1
-    created: "2023-03-15T14:11:44.1534307+08:00"
+    appVersion: 1.0.2
+    created: "2023-03-15T16:42:13.285941405+08:00"
     description: A Helm chart for Kubernetes
-    digest: 0bd68edfd76f4b47d0528a4524b52aa6c50eece5fd0f1fb165fbd26f0a4813f9
+    digest: 13778d8283c6629ab707996323f8b991433e36b4c51d1025cee6683a1848399a
     name: tagsdev
     type: application
     urls:
-    - https://chart.tagsdev.click/tagsdev-0.1.0.tgz
+    - http://chart.tagsdev.click/tagsdev-0.1.2.tgz
+    version: 0.1.2
+  - apiVersion: v2
+    appVersion: 1.0.1
+    created: "2023-03-15T16:42:13.285199703+08:00"
+    description: A Helm chart for Kubernetes
+    digest: 0941fe199d23af2ed1ada25d2e9b9c5b2f70383a79532ea2b5dba6a937f352c9
+    name: tagsdev
+    type: application
+    urls:
+    - http://chart.tagsdev.click/tagsdev-0.1.0.tgz
     version: 0.1.0
-generated: "2023-03-15T14:11:44.152863586+08:00"
+generated: "2023-03-15T16:42:13.284239498+08:00"
